@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats] https://leetcode.com/u/SojalSrivastava/
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SojalSrivastava)
 
 <!--
