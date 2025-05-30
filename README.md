@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![LeetCode Stats] https://leetcode.com/u/SojalSrivastava/
+![LeetCode Stats](https://leetcard.jacoblin.cool/SojalSrivastava)
+
 <!--
 **Sojal1001/Sojal1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
