@@ -1,14 +1,14 @@
 ## Hi there 👋
-Leetcode stats:
-<p align="center">
+<h3>Leetcode stats:</h3>
+<p>
   <img src="https://leetcard.jacoblin.cool/SojalSrivastava" alt="LeetCode Stats"/>
 </p>
-Github stats:
-<p align="center"> 
+<h3>Github stats:</h3>
+<p> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sojal1001&show_icons=true&theme=radical" alt="GitHub Stats" /> 
 </p>
-Language used:
-<p align="center"> 
+<h3>Language used:</h3>
+<p> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojal1001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
