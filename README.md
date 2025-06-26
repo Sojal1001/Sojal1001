@@ -3,12 +3,15 @@ Leetcode stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SojalSrivastava" alt="LeetCode Stats"/>
 </p>
+Github stats:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sojal1001&show_icons=true&theme=radical" alt="GitHub Stats" /> 
 </p>
+Language used:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojal1001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 <!--
 **Sojal1001/Sojal1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
