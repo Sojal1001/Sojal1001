@@ -5,11 +5,11 @@
 </p>
 <h3>Github stats:</h3>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SojalSrivastava&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sojal1001&show_icons=true&theme=radical" alt="GitHub Stats" /> 
 </p>
 <h3>Language used:</h3>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SojalSrivastava&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojal1001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
